@@ -1,12 +1,124 @@
-# React + Vite
+# 🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple, modern weather web app that provides real-time weather updates for any location. Built with a clean dark UI and intuitive design.
 
-Currently, two official plugins are available:
+![Home Page Screenshot](image1)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- 🌎 Search for current weather by city or country
+- 📈 Displays temperature, humidity, wind speed, and weather condition
+- 🎨 Minimalist and mobile-friendly design
+- ☁️ Weather icons and emojis for quick visual reference
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Demo
+
+![Home Page](image1)
+
+## Getting Started
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/Abdullah-Junayed-290/Weather-App.git
+   cd Weather-App
+   ```
+
+2. **Install dependencies:**
+   - If your app uses Node.js:
+     ```bash
+     npm install
+     ```
+   - Or simply open the `index.html` in your browser if it’s a static app.
+
+3. **Run the app:**
+   - For a static app:  
+     Open `index.html` in your web browser.
+   - For a Node.js/React app:  
+     ```bash
+     npm start
+     ```
+
+4. **Visit:**  
+   Open [http://localhost:8000](http://localhost:8000) in your browser.
+
+## Technologies Used
+
+- JavaScript
+- HTML & CSS
+- (Add frameworks/libraries here if any, e.g., React, Bootstrap, etc.)
+- Weather API (add which API you used, e.g., OpenWeatherMap, WeatherAPI, etc.)
+
+## Screenshot
+
+![Home Page](image1)
+
+## License
+
+This project is open source and avai# 🌤️ Weather App
+
+A simple, modern weather web app that provides real-time weather updates for any location. Built with a clean dark UI and intuitive design.
+
+![Home Page Screenshot](image1)
+
+## Features
+
+- 🌎 Search for current weather by city or country
+- 📈 Displays temperature, humidity, wind speed, and weather condition
+- 🎨 Minimalist and mobile-friendly design
+- ☁️ Weather icons and emojis for quick visual reference
+
+## Demo
+
+![Home Page](image1)
+
+## Getting Started
+
+1. **Clone this repository:**
+   ```bash
+   git clone https://github.com/Abdullah-Junayed-290/Weather-App.git
+   cd Weather-App
+   ```
+
+2. **Install dependencies:**
+   - If your app uses Node.js:
+     ```bash
+     npm install
+     ```
+   - Or simply open the `index.html` in your browser if it’s a static app.
+
+3. **Run the app:**
+   - For a static app:  
+     Open `index.html` in your web browser.
+   - For a Node.js/React app:  
+     ```bash
+     npm start
+     ```
+
+4. **Visit:**  
+   Open [http://localhost:8000](http://localhost:8000) in your browser.
+
+## Technologies Used
+
+- JavaScript
+- HTML & CSS
+- (Add frameworks/libraries here if any, e.g., React, Bootstrap, etc.)
+- Weather API (add which API you used, e.g., OpenWeatherMap, WeatherAPI, etc.)
+
+## Screenshot
+
+![Home Page](image1)
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+> **Author:** [Abdullah Junayed](https://github.com/Abdullah-Junayed-290)  
+> For questions or feedback, feel free to open an issue!
+lable under the [MIT License](LICENSE).
+
+---
+
+> **Author:** [Abdullah Junayed](https://github.com/Abdullah-Junayed-290)  
+> For questions or feedback, feel free to open an issue!
