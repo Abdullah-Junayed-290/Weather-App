@@ -111,7 +111,8 @@ A simple, modern weather web app that provides real-time weather updates for any
 ## Deploy in vercel, host link: 
 ```
 https://weather-app-nine-eta-54.vercel.app/
-
+```
+```
 https://weatherapp290.vercel.app/
 ```
 
