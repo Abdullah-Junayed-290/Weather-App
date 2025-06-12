@@ -108,6 +108,11 @@ A simple, modern weather web app that provides real-time weather updates for any
 
 ![Home Page](image1)
 
+## Deploy in vercel, host link: 
+```
+https://weather-app-nine-eta-54.vercel.app/
+```
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
